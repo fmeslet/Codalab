@@ -1,2 +1,2 @@
 # Codalab
-Competition paratice on Codalab
+Competitions practiced on Codalab
