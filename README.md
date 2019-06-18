@@ -1,2 +1,2 @@
 # Codalab
-Competitions practiced on Codalab
+Competitions practiced on Codalab.
