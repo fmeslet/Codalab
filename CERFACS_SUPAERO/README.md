@@ -12,6 +12,6 @@ The solution
 
 ## Results
 
-   True                    |  Predictions
+   True                    |  Prediction
 :-------------------------:|:-------------------------:
 ![](https://github.com/fmeslet/Codalab/blob/master/CERFACS_SUPAERO/y_true.gif)   |  ![](https://github.com/fmeslet/Codalab/blob/master/CERFACS_SUPAERO/y_pred.gif)
